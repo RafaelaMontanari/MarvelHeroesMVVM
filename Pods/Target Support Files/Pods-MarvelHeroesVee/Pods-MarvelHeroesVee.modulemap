@@ -1,0 +1,6 @@
+framework module Pods_MarvelHeroesVee {
+  umbrella header "Pods-MarvelHeroesVee-umbrella.h"
+
+  export *
+  module * { export * }
+}
